@@ -9,4 +9,6 @@ Input:
 Output
    simple interest = p*t*r
 
-This is a Coursera Git and GitHub Final project (Part 1 - GitHub UI)
+####Notes
+This project was created while learning Git and Github on Coursera (Part 1 - Github UI).  
+The main goal was to understand creating supporting documents for an open source project.
